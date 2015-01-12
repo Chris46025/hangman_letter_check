@@ -1,0 +1,5 @@
+install - gem install hangman_letter_check
+
+how to use - result = word.occurrences(letter)
+
+result is an array of indexes where the letter occurs in the word otherwise the result is an empty array
